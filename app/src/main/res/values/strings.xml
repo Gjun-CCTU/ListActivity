@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ListActivity</string>
+    <string-array name="course">
+        <item>Java初階</item>>
+        <item>Java進階</item>>
+        <item>Android初階</item>>
+        <item>Android進階</item>>
+        <item>apple</item>>
+    </string-array>
+</resources>
